@@ -138,7 +138,7 @@ To enable full cream SSR follow these steps.
 **On the server**:
 ```json
 {
-  "plugins": ["react-imported-component/babel", "babel-plugin-dynamic-import-node"]
+  "plugins": ["react-imported-component/babel", "dynamic-import-node"]
 }
 ```
 
